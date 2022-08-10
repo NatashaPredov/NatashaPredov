@@ -8,7 +8,7 @@
 
 * Who are the founders of the company? The founders of NerdWallet are Time Chen, current CEO of NerdWallet, and co-founder Jack Gibson
 
-* How did the idea for the company (or project) come about? Based on a 2018 
+* How did the idea for the company (or project) come about? Based on a 2018 CNBC article, Chen wanted to create a product that enabled financial transparency with online services advice. He realized there was a need in the market for a product like this as he had to Google a financial que
 
 * How is the company funded? How much funding have they received?
 
