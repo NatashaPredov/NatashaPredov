@@ -2,13 +2,13 @@
 
 ## Overview and Origin
 
-* What is the name of the company?
+* What is the name of the company? The company that I will be focusing on for Challenge #1 is NerdWallet 
 
-* When was the company incorporated?
+* When was the company incorporated? Nerdwallet was incorporated on 03/02/2010
 
-* Who are the founders of the company?
+* Who are the founders of the company? The founders of NerdWallet are Time Chen, current CEO of NerdWallet, and co-founder Jack Gibson
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about? Based on a 2018 
 
 * How is the company funded? How much funding have they received?
 
@@ -51,3 +51,9 @@
 * What technologies would this additional product or service utilise?
 
 * Why are these technologies appropriate for your solution?
+
+**##**Addendum 
+(1) https://www.nerdwallet.com/company?trk=nw_gf_5.0
+(2) https://www.bloomberg.com/profile/company/1241806D:US
+(3) https://www.cnbc.com/2018/05/09/tim-chen-started-500-million-company-nerdwallet-with-800.html#:~:text=Chen%20wanted%20to%20offer%20more,and%20software%20and%20started%20NerdWallet.
+
