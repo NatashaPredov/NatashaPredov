@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**NatashaPredov/NatashaPredov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Challenge #1
 
 ## Overview and Origin
