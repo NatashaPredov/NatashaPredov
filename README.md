@@ -17,7 +17,7 @@
 
 * What specific financial problem is the company or project trying to solve? Simply put, NerdWallet is addressing the financial problem of the transparncy of financial decisions that customers make. NerdWallet's aim is to provide platform tools, information and insights to enable customers to make financial decisions. 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers? NerWallets intended customers are those in the business of learning more about banking and their banking needs (what the best credit card is, who is the best brokers for stocks ect.) to make smarter, more educated decisions about all of their banking needs. Market size...
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
 
