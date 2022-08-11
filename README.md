@@ -8,14 +8,14 @@
 
 * Who are the founders of the company? The founders of NerdWallet are Time Chen, current CEO of NerdWallet, and co-founder Jack Gibson
 
-* How did the idea for the company (or project) come about? Based on a 2018 CNBC article, Chen wanted to create a product that enabled financial transparency with online services advice. He realized there was a need in the market for a product like this as he had to Google a financial que
+* How did the idea for the company (or project) come about? Based on a 2018 CNBC article, Chen wanted to create a product that enabled financial transparency with online services advice. He realized there was a need in the market for a product like this as he had to Google a financial question asked by his sister, expecting a quick answer, and was unable to find anything on the question. Chen then realized the customers had to shift through heavy banking material to receive answers to their questions. Thus the birth of Nerdwallet came to. 
 
-* How is the company funded? How much funding have they received?
+* How is the company funded? How much funding have they received? It was first funded by $800 that Chen used to invest in the company. Then in 2015 NerdWallet raised ~$150 million. NerdWallet raises this money through multiple rounds of funding (Series A,  Secondary Market ect.)
 
 
 ## Business Activities
 
-* What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve? Simply put, NerdWallet is addressing the financial problem of the transparncy of financial decisions that customers make. NerdWallet's aim is to provide platform tools, information and insights to enable customers to make financial decisions. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
@@ -26,7 +26,7 @@
 
 ## Landscape
 
-* What domain of the financial industry is the company in?
+* What domain of the financial industry is the company in? 
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
 
@@ -55,5 +55,6 @@
 **##**Addendum 
 (1) https://www.nerdwallet.com/company?trk=nw_gf_5.0
 (2) https://www.bloomberg.com/profile/company/1241806D:US
-(3) https://www.cnbc.com/2018/05/09/tim-chen-started-500-million-company-nerdwallet-with-800.html#:~:text=Chen%20wanted%20to%20offer%20more,and%20software%20and%20started%20NerdWallet.
+(3) https://www.cnbc.com/2018/05/09/tim-chen-started-500-million-company-nerdwallet-with-800.html#:~:text=Chen%20wanted%20to%20offer%20more,and%20software%20and%20started%20NerdWallet
+(4) https://www.crunchbase.com/organization/nerdwallet/company_financials
 
