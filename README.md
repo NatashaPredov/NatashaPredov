@@ -19,8 +19,8 @@
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers? NerWallets intended customers are those in the business of learning more about banking and their banking needs (what the best credit card is, who is the best brokers for stocks ect.) to make smarter, more educated decisions about all of their banking needs. According to Public.com, NerdWallet's has over 39 million active monthly users. NerdWallet's business model generates revenue to suppor their daily activities through affiate commissions in which financial companines pay NerdWallet for every signup that is generated through the information and media provided by NerdWallet. 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?) NerdWallet offers several solutions that their competitors do not. Specifically:
-**Strong financi
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?) Compare to its competitors, NerdWallet wins in two categories: the first being the 
+
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.) 
 
 
@@ -57,5 +57,5 @@ Addendum
 (2) https://www.bloomberg.com/profile/company/1241806D:US
 (3) https://www.cnbc.com/2018/05/09/tim-chen-started-500-million-company-nerdwallet-with-800.html#:~:text=Chen%20wanted%20to%20offer%20more,and%20software%20and%20started%20NerdWallet
 (4) https://www.crunchbase.com/organization/nerdwallet/company_financials
-(5) 
+(5) https://www.pcmag.com/reviews/nerdwallet
 
