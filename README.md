@@ -35,22 +35,18 @@
 
 ## Results
 
-* What has been the business impact of this company so far? 
+* What has been the business impact of this company so far? The business impact of NerdWallet has been 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? 
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? A core metric that NerdWallet would measure success from is the number of companies it partners with and the number of affiliate comissions generated when someone signsup for a company that utilized NerdWallets platform. In addition to this the rate in which they convert and retain customers is another core metrics that derive success. From a broad business analysis it seems that NerdWallet is performing well to these metrics. As per https://amplitude.com/case-studies/nerdwallet products provided to customers via NerdWallet has increased mobile clicks by 200% and partners with over 150 financial companies in which they often generate revenue from when customers receive one of these partners products. 
 
-* How is your company performing relative to competitors in the same domain?
+* How is your company performing relative to competitors in the same domain? Relative to its competitors, NerdWallet is keeping up to them from a core metric and partnership perspective however there are areas in which they are gaps that I will be addressing below. Specifically however according to SimilarWeb outlines that NerdWallet has a lower global rank compared to creditkarma but is higher than  creditcards.com.
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer? Why do you think that offering this product or service would benefit the company? (This could be something that a competitor offers, or use your imagination!) First as a lover of a transparent and consistent user journey, I would suggest that NerdWallet spends engineering and design time on improving the overall UI/X of the online platform. Through an enhanced UI and clear customer journey, which could cover less noise on their platform, would provide users the answers they are looking for faster (following the original reason in which NerdWallet was created due to Chen's struggles). I personally found it difficult to find the key information I was looking for, for this project as I had to scroll through pages and information that provided no value to me as a customer or users. Secondly, I would suggest that they continue to focus resources on building out their financial managment area as this is their weakness when comparing them to largers competitors of Mint or Quicken Deluxe. Specifically that of income and expense managment expertise and technology with a focus on transaction managment.  
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilise?
-
-* Why are these technologies appropriate for your solution?
+* What technologies would this additional product or service utilise?  Why are these technologies appropriate for your solution? From a UI design perspective the utilization of Mural or Figma to see the user flow from a highlevel while still being able to drill down could be benefical these technologies are appropriate for the solution as they are a UI design standard being used in the community everyday. To build out a transaction managment platform for information and tools covering that topic, the current developer tools used such as PHP and Bootstrap can be used to build and design this. 
 
 Addendum 
 (1) https://www.nerdwallet.com/company?trk=nw_gf_5.0
@@ -61,5 +57,6 @@ Addendum
 (6) https://stackshare.io/nerdwallet/nerdwallet
 (7) https://productmint.com/the-nerdwallet-business-model-how-does-nerdwallet-make-money/
 (8) https://www.lpl.com/newsroom/read/lpl-evolution-financial-industry-journey.html
-(9) 
+(9) https://amplitude.com/case-studies/nerdwallet
+(10) https://www.similarweb.com/website/nerdwallet.com/competitors/
 
