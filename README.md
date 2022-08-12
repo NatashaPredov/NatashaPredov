@@ -2,7 +2,9 @@
 
 ## Overview and Origin
 
-*What is the name of the company?* The company that I will be focusing on for Challenge #1 is NerdWallet 
+*What is the name of the company?* 
+
+--The company that I will be focusing on for Challenge #1 is NerdWallet--
 
 * *When was the company incorporated?* Nerdwallet was incorporated on 03/02/2010
 
