@@ -4,7 +4,7 @@
 
 *What is the name of the company?* 
 
---The company that I will be focusing on for Challenge #1 is NerdWallet--
+The company that I will be focusing on for Challenge #1 is NerdWallet<br/>
 
 * *When was the company incorporated?* Nerdwallet was incorporated on 03/02/2010
 
