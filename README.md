@@ -27,15 +27,15 @@ It was first funded by $800 that Chen used to invest in the company. Then in 201
 
 *What specific financial problem is the company or project trying to solve?* 
 
-Simply put, NerdWallet is addressing the financial problem of the transparncy of financial decisions that customers make. NerdWallet's aim is to provide platform tools, information and insights to enable customers to make financial decisions.<br/>
+Simply put, NerdWallet is addressing the financial problem of the transparency of financial decisions that customers make. NerdWallet's aim is to provide platform tools, information and insights to enable customers to make financial decisions.<br/>
 
-*Who is the company's intended customer?*  
+*Who is the company's intended customer? Is there any information about the market size of this set of customers?*  
 
-Is there any information about the market size of this set of customers? NerWallets intended customers are those in the business of learning more about banking and their banking needs (what the best credit card is, who is the best brokers for stocks ect.) to make smarter, more educated decisions about all of their banking needs. According to Public.com, NerdWallet's has over 39 million active monthly users. NerdWallet's business model generates revenue to suppor their daily activities through affiate commissions in which financial companines pay NerdWallet for every signup that is generated through the information and media provided by NerdWallet.<br/>
+NerWallets intended customers are those in the business of learning more about banking and their banking needs (what the best credit card is, who is the best brokers for stocks ect.) to make smarter, more educated decisions about all of their banking needs. According to Public.com, NerdWallet's has over 39 million active monthly users. NerdWallet's business model generates revenue to support their daily activities through affiliate commissions in which financial companies pay NerdWallet for every signup that is generated through the information and media provided by NerdWallet.<br/>
 
 *What solution does this company offer that their competitors do not or cannot offer?* 
 
-Compared to its competitors closets competitor Credit Karma, NerdWallet wins in two categories: the first being the large amounts of editorial content (as per NerdWallet's company website the  editoral team consists of over 100+ content and editor writers) so the content provided to customers is vast and without opinon. Secondly, NerdWallet beats its competitors in its basic income and expense tracking tools.<br/>
+Compared to its closest competitor Credit Karma, NerdWallet wins in two categories: the first being the large amounts of editorial content (as per NerdWallet's company website the editorial team consists of over 100+ content and editor writers) so the content provided to customers is vast and without opinion. Secondly, NerdWallet beats its competition in the information and tools provided regarding basic income and expense tracking tools. <br/>
 
 *Which technologies are they currently using, and how are they implementing them?* 
 
@@ -46,11 +46,11 @@ According to StackShare, NerdWallet uses a variety of technologies in their appl
 
 *What domain of the financial industry is the company in?* 
 
-NerdWallet is in the domain of financial advice provided throught platform content covering a wide range of topics such as best auto loans, comparisons of credit card compaines and guides on travel. NerdWallet acts as a trusted but neutal advior to its customers to provide the best and most recent advice.<br/>
+NerdWallet is in the domain of financial advice provided through platform content covering a wide range of topics such as best auto loans, comparisons of credit card companies and guides on travel. NerdWallet acts as a trusted but neutral advisor to its customers to provide the best and most recent advice.<br/>
 
 *What have been the major trends and innovations of this domain over the last 5–10 years?* 
 
-At one point, financial advisors (usually in person) were people that customers of Banks trusted most with the money or money decisions.  LPL Financial outlined that " We can trace the dawn of the true financial advisor back to the 1980s. That’s when private investors first had access to investment advice—rather than just someone to take their orders and execute stock trades." But there was a shift from selling Banking products to selling advice rooted in their experience and knowledge. Over the last 5 to 10 years with the boom of the internet, wireless telephone and mobile applications "Financial advisors are no longer the gatekeepers of information on stocks, market trends, and economic forecasts". Rather this information is avalible and accessible 24/7 by not only investors but customers themselves. This is where NerdWallet comes in. It fits within the domain or role of financial advisor but through an online medium. Enabling customers intastna access to information to make infomrmed decisions without the need to book and appointment with a person, wait for the meeting and go to the physical location of the bank.<br/>  
+At one point, financial advisors (usually in person) were people that customers of Banks trusted most with the money or money decisions. LPL Financial outlined that " We can trace the dawn of the true financial advisor back to the 1980s. That’s when private investors first had access to investment advice—rather than just someone to take their orders and execute stock trades." But there was a shift from selling Banking products to selling advice rooted in their experience and knowledge. Over the last 5 to 10 years with the boom of the internet, wireless telephone and mobile applications "Financial advisors are no longer the gatekeepers of information on stocks, market trends, and economic forecasts". Rather this information is available and accessible 24/7 by not only investors but customers themselves. This is where NerdWallet comes in. It fits within the domain or role of financial advisor but through an online medium. Enabling customers instant access to information to make informed decisions without the need to book and appointment with a person, wait for the meeting and go to the physical location of the bank.<br/>  
 
 *What are the other major companies in this domain?* 
 
@@ -59,28 +59,28 @@ Comparably outlines that NerdWallets 3 major competitors in this direct domain i
 
 ## Results
 
-*What has been the business impact of this company so far?* 
+*What has been the business and social impact of this company so far?* 
 
-The business impact of NerdWallet has been FINISH<br/>
+The business and social impact of NerdWallet has impacted the domain resides in surrounds providing financial knowledge to all, regardless of education or salary status. NerdWallet provides the same, consistent information to all users and it is accessible to all users. It does not choose its customers but rather its customers choose them for the information that they provide. Specifically, NerdWallet has developed "The Financial Equality Project" which "help provide access to equitable financial products and service" to low income communities. Although this initiative is the first of its kind for NerdWallet, it is an area within the financial writing and support domain that can supports at risk communities and raises all citizens to a higher financial education level, not just those with the financial means to do so. From researching NerdWallets competition such as Credit Karma, CreditCards.com ect. it is clear that these social initiatives are a trend in the domain of financial advice and knowledge so it is clear that NerdWallet is on par with this initiative.<br/>
 
 *What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*
 
-A core metric that NerdWallet would measure success from is the number of companies it partners with and the number of affiliate comissions generated when someone signsup for a company that utilized NerdWallets platform. In addition to this the rate in which they convert and retain customers is another core metrics that derive success. From a broad business analysis it seems that NerdWallet is performing well to these metrics. As per https://amplitude.com/case-studies/nerdwallet products provided to customers via NerdWallet has increased mobile clicks by 200% and partners with over 150 financial companies in which they often generate revenue from when customers receive one of these partners products.<br/>
+A core metric that NerdWallet measures success from is the number of companies it partners with and the number of affiliate commissions generated when someone signs up for a company that utilized NerdWallets platform. In addition to this the rate in which they convert and retain customers is another core metrics that derive success. From a broad business analysis it seems that NerdWallet is performing well to these metrics. As per https://amplitude.com/case-studies/nerdwallet products provided to customers via NerdWallet has increased mobile clicks by 200% and partners with over 150 financial companies in which they often generate revenue from when customers receive one of these partners’ products.<br/>
 
-* *How is your company performing relative to competitors in the same domain?* 
+*How is your company performing relative to competitors in the same domain?* 
 
-Relative to its competitors, NerdWallet is keeping up to them from a core metric and partnership perspective however there are areas in which they are gaps that I will be addressing below. Specifically however according to SimilarWeb outlines that NerdWallet has a lower global rank compared to creditkarma but is higher than  creditcards.com.<br/>
+Relative to its competitors, NerdWallet is keeping up to them from a core metric and partnership perspective however there are areas in which they are gaps that I will be addressing below. However according to SimilarWeb outlines that NerdWallet has a lower global rank compared to creditkarma but is higher than creditcards.com.<br/>
 
 
 ## Recommendations
 
 *If you were to advise the company, what products or services would you suggest they offer? Why do you think that offering this product or service would benefit the company?* 
 
-First as a lover of a transparent and consistent user journey, I would suggest that NerdWallet spends engineering and design time on improving the overall UI/X of the online platform. Through an enhanced UI and clear customer journey, which could cover less noise on their platform, would provide users the answers they are looking for faster (following the original reason in which NerdWallet was created due to Chen's struggles). I personally found it difficult to find the key information I was looking for, for this project as I had to scroll through pages and information that provided no value to me as a customer or users. Secondly, I would suggest that they continue to focus resources on building out their financial managment area as this is their weakness when comparing them to largers competitors of Mint or Quicken Deluxe. Specifically that of income and expense managment expertise and technology with a focus on transaction managment. <br/> 
+First as a lover of a transparent and consistent user journey, I would suggest that NerdWallet spends engineering and design time on improving the overall UI/X of the online platform. Through an enhanced UI and clear customer journey, which could cover less noise on their platform, would provide users the answers they are looking for faster (following the original reason in which NerdWallet was created due to Chen's struggles). I personally found it difficult to find the key information I was looking for, for this project as I had to scroll through pages and information that provided no value to me as a customer or users. Secondly, I would suggest that they continue to focus resources on building out their financial management area as this is their weakness when comparing them to the larger competitors of Mint or Quicken Deluxe. Specifically, that of income and expense and transaction management advice.<br/> 
 
-*What technologies would this additional product or service utilise?* 
+*Why are these technologies appropriate for your solution?*
 
-Why are these technologies appropriate for your solution? From a UI design perspective the utilization of Mural or Figma to see the user flow from a highlevel while still being able to drill down could be benefical these technologies are appropriate for the solution as they are a UI design standard being used in the community everyday. To build out a transaction managment platform for information and tools covering that topic, the current developer tools used such as PHP and Bootstrap can be used to build and design this. <br/>
+From a UI design perspective the utilization of Mural or Figma to see the user flow from a high-level while still being able to drill down could be beneficial these technologies are appropriate for the solution as they are a UI design standard being used in the community every day. To build out a transaction management platform for information and tools covering that topic, the current developer tools used such as PHP and Bootstrap can be used to build and design this.<br/>
 
 Addendum 
 (1) https://www.nerdwallet.com/company?trk=nw_gf_5.0
@@ -93,4 +93,6 @@ Addendum
 (8) https://www.lpl.com/newsroom/read/lpl-evolution-financial-industry-journey.html
 (9) https://amplitude.com/case-studies/nerdwallet
 (10) https://www.similarweb.com/website/nerdwallet.com/competitors/
+(11) https://www.creditkarma.com/about/releases/social-venture-partners-charlotte-and-credit-karma-announce-120000-investment-into-local-nonprofits
+
 
